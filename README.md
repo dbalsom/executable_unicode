@@ -37,7 +37,7 @@ SHA-256: `d32d5b96913bfe793d65cbb7b7317c400e8cfc743c1f2f126ee377f47373c1ec`
 
 ### `KANA.COM`
 
-Hello World in a mix of Katakana and Hiragana. Doing this in just one or the other is left as an exercise for the reader.
+Hello World in a mix of Japanese Katakana and Hiragana. Doing this in just one or the other is left as an exercise for the reader.
 
 Size: 609 bytes  
 MD5: `8df97d77cf17a9ad64b22d554eaebd37`  
@@ -57,6 +57,16 @@ SHA-256: `b2089f833b9f8f01b3c42636ca89972f8e233e89d7d583900116cf9e06478abf`
 ![braille](/hello_world/BRAILLE.png)
 
 `BRAILLE.COM` is by necessity quite large because most of the available memory offsets are above `E000`.
+
+### `HEIRO.COM`
+
+Hello World in Egyptian Hieroglyphics. 
+Note: Windows notepad.exe and other text editors may incorrectly interpret this file as UTF-16, displaying various CJK ideographs instead.
+
+Size: 684 bytes  
+MD5: `d0fc8b3233592cabafcd338a682fafac`  
+SHA-256: `328e5e57590c2c29c45c366a0ba6965137135db14091cf71dbff55c2a5bc8590`
+[Disassembly](https://dasm.martypc.net/?cpu=intel808x&segment=16&offset=00000100&eu=1&cu=0&hex_gz=H4sIAAAAAAAA_52SzQrCMAyAX71lCHXTLVp_QfS4m1e9SF8pj2C6JFrqT8cO4Qul-ZqGoAeL3txxoKOALecmEAH98kE8CI_Cs_CC3lZ01zCdEJQr4bVM6MUV3vks9ylP432LXw5l96eXW9nflfzrCb1txv_P5rVN0r-cGWA2QXpOZvyq68tvzevPsypx5m59H9ovTuD9iPMZdm5Hsacax3UadWQb8yc0BMLNrAIAAA)
 
 ## Mandelbrot
 
