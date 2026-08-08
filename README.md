@@ -15,7 +15,7 @@ A basic explanation of how to construct executable Emoji can be found [here](htt
 
 Your basic "Hello World!" program.
 
-The basic concept is to implement enough code in native codepoints to emit a first-stage decoder, the source of which is in /asm/decoder.asm. This decoder then emits native code to print "Hello World!" and jumps to it.
+The basic concept is to implement enough code in Unicode codepoints to emit a first-stage decoder, the source of which is in /asm/decoder.asm. This decoder then emits native code to print "Hello World!" and jumps to it.
 
 ### `EMOJI.COM`
 
