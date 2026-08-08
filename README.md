@@ -7,6 +7,8 @@ This repository contains a few examples of executable Unicode characters.
 These files represent 8088 machine code, which can be executed directly in MS-DOS as a COM file, if a 0100h base address is assumed.
 All the examples should run in most versions of DosBox.
 
+Each TXT file is identical to the corresponding COM file, except for extension.
+
 A basic explanation of how to construct executable Emoji can be found [here](https://martypc.blogspot.com/2026/08/executable-emoji.html). 
 
 ## Hello World
