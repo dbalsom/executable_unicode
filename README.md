@@ -19,11 +19,15 @@ The basic concept is to implement enough code in native codepoints to emit a fir
 
 ### `EMOJI.COM`
 
+Hello World using displayable color Emoji.
+
 Size: 838 bytes  
 MD5: `e7684474f9d77bcfab3fd89321a327cb`  
 SHA-256: `7c0f4b56c3d929a2b4b5fff49cc9ff393b57998a609b2687205cabf0436edc31`
 
 ### `HANGUL.COM`
+
+Hello world in Korean Hangul.
 
 Size: 552 bytes  
 MD5: `50d38d1f31322b24ee9a384de0d53728`  
@@ -31,11 +35,15 @@ SHA-256: `d32d5b96913bfe793d65cbb7b7317c400e8cfc743c1f2f126ee377f47373c1ec`
 
 ### `KANA.COM`
 
+Hello World in a mix of Katakana and Hiragana. Doing this in just one or the other is left as an exercise for the reader.
+
 Size: 609 bytes  
 MD5: `8df97d77cf17a9ad64b22d554eaebd37`  
 SHA-256: `4f3e2d11427cef293d9ae0d6f20fd7ee4373dbe530251fc6573ad35ead6e0b78`
 
 ### `BRAILLE.COM`
+
+Hello World in Braille + newlines.
 
 Size: 57,836 bytes  
 MD5: `4d3108c581bc67cd3e0c49a074d2d835`  
@@ -50,6 +58,8 @@ SHA-256: `b2089f833b9f8f01b3c42636ca89972f8e233e89d7d583900116cf9e06478abf`
 A Mode 13h VGA Mandelbrot generator with the default VGA palette.
 
 ### `MEMOJI.COM`
+
+Mandelbrot generator in Emoji.
 
 Size: 1,092 bytes  
 MD5: `95482be7ae8d8ddcefca5a1ebbc7363f`  
