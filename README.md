@@ -53,6 +53,8 @@ SHA-256: `b2089f833b9f8f01b3c42636ca89972f8e233e89d7d583900116cf9e06478abf`
 
 ![braille](/hello_world/BRAILLE.png)
 
+`BRAILLE.COM` is by necessity quite large because most of the available memory offsets are above `E0000`.
+
 ## Mandelbrot
 
 A Mode 13h VGA Mandelbrot generator with the default VGA palette.
