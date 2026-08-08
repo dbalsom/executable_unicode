@@ -19,7 +19,7 @@ The basic concept is to implement enough code in native codepoints to emit a fir
 
 ### `EMOJI.COM`
 
-Hello World using displayable color Emoji.
+Hello World using displayable color Emoji. Requires an 8088 CPU or lenient emulator such as DosBox due to the UD-producing `lock lahf` prefix on most Emoji codepoints.
 
 Size: 838 bytes  
 MD5: `e7684474f9d77bcfab3fd89321a327cb`  
@@ -59,7 +59,7 @@ A Mode 13h VGA Mandelbrot generator with the default VGA palette.
 
 ### `MEMOJI.COM`
 
-Mandelbrot generator in Emoji.
+Mandelbrot generator in Emoji. Requires an 8088 CPU or lenient emulator such as DosBox due to the UD-producing `lock lahf` prefix on most Emoji codepoints.
 
 Size: 1,092 bytes  
 MD5: `95482be7ae8d8ddcefca5a1ebbc7363f`  
