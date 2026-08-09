@@ -58,7 +58,7 @@ SHA-256: `b2089f833b9f8f01b3c42636ca89972f8e233e89d7d583900116cf9e06478abf`
 
 `BRAILLE.COM` is by necessity quite large because most of the available memory offsets are above `E000`.
 
-### `HEIRO.COM`
+### `HIERO.COM`
 
 Hello World in Egyptian Hieroglyphics. 
 Note: Windows notepad.exe and other text editors may incorrectly interpret this file as UTF-16, displaying various CJK ideographs instead.
